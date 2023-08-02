@@ -18,4 +18,5 @@ public class IndexController {
 		model.addAttribute("objeto", servicio.operacion());
 		return "index";
 	}
+
 }
